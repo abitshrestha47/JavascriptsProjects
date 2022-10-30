@@ -1,0 +1,9 @@
+.btn.active{
+    background:gray;
+}
+.content{
+    display:none;
+}
+.content.active{
+    display:block;
+}
